@@ -27,3 +27,6 @@ MANIFEST
 
 # Data files
 Data/
+
+# venv
+laining_env/
